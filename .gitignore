@@ -1,0 +1,5 @@
+#exclude data from git
+data/
+#exclude model weights from git
+rnn_model/*
+transform_model/*
